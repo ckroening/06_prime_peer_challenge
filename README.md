@@ -10,3 +10,5 @@ There is a specific point in the exercise that you will be required to ‘switch
 Once you have completed the challenge, make sure to post your completed project to GitHub. Whoever was not the poster in the pair, make sure that you clone that repository and post your work.
 
 Good luck on your first pair challenge. Looking forward to seeing the results!
+
+Answers are contained in the script.js file.
